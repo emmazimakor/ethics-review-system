@@ -1,0 +1,6 @@
+chroma_db/
+RAW_DOCS_DIR/*.pdf
+__pycache__/
+*.pyc
+.env
+outputs/
